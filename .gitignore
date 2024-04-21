@@ -37,3 +37,6 @@
 # Scripts
 *.sh
 *.py
+
+# System
+.DS_Store
